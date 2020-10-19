@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f196cfe.chunk.css",
+    "main.js": "/static/js/main.4e448b7b.chunk.js",
+    "main.js.map": "/static/js/main.4e448b7b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f332368a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f332368a.js.map",
+    "static/js/2.8f9dd3f0.chunk.js": "/static/js/2.8f9dd3f0.chunk.js",
+    "static/js/2.8f9dd3f0.chunk.js.map": "/static/js/2.8f9dd3f0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f10a7472371491deaa594a7c6e6836cb.js": "/precache-manifest.f10a7472371491deaa594a7c6e6836cb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2f196cfe.chunk.css.map": "/static/css/main.2f196cfe.chunk.css.map",
+    "static/js/2.8f9dd3f0.chunk.js.LICENSE.txt": "/static/js/2.8f9dd3f0.chunk.js.LICENSE.txt",
+    "static/media/Bug.svg": "/static/media/Bug.3c3b7ab5.svg",
+    "static/media/Dark.svg": "/static/media/Dark.a015eeb6.svg",
+    "static/media/Dragon.svg": "/static/media/Dragon.ef87a90e.svg",
+    "static/media/Electric.svg": "/static/media/Electric.71d71c8d.svg",
+    "static/media/Fairy.svg": "/static/media/Fairy.9b43a25c.svg",
+    "static/media/Fighting.svg": "/static/media/Fighting.43c2ed0e.svg",
+    "static/media/Fire.svg": "/static/media/Fire.1ab14d05.svg",
+    "static/media/Flying.svg": "/static/media/Flying.f4e6d97d.svg",
+    "static/media/Ghost.svg": "/static/media/Ghost.3d7185b3.svg",
+    "static/media/Grass.svg": "/static/media/Grass.ab3ef33b.svg",
+    "static/media/Ground.svg": "/static/media/Ground.fd9df481.svg",
+    "static/media/Ice.svg": "/static/media/Ice.02eb5bd3.svg",
+    "static/media/Normal.svg": "/static/media/Normal.1f9c13e3.svg",
+    "static/media/Poison.svg": "/static/media/Poison.01d85da2.svg",
+    "static/media/Psychic.svg": "/static/media/Psychic.017913af.svg",
+    "static/media/Rock.svg": "/static/media/Rock.9af8ebde.svg",
+    "static/media/Steel.svg": "/static/media/Steel.0e56a675.svg",
+    "static/media/Water.svg": "/static/media/Water.817868f0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f332368a.js",
+    "static/js/2.8f9dd3f0.chunk.js",
+    "static/css/main.2f196cfe.chunk.css",
+    "static/js/main.4e448b7b.chunk.js"
+  ]
+}
